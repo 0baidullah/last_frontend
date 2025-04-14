@@ -1,5 +1,6 @@
 import React from "react";
 import DarkStrip from "./spacing";
+import Image from "next/image";
 const NoHesiCommunity = () => {
   // Dummy data storage
   const communityData = [
